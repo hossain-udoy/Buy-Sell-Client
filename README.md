@@ -9,7 +9,7 @@
 Email:ememon707@gmail.com
 Password:123456aU!
 
-# Live site Link (https://buy-sell-64526.web.app/dashboard/)
+# Live site Link (https://buy-sell-64526.web.app/)
 
 Buy-Sell is a cloud-enabled, mobile-ready Website
 In this website ReactJS-powered Tailwind Css React Icons are used For design.
